@@ -16,8 +16,9 @@ printf("Hello World\n");
 ```
 
 ## table
+
 |content|content|
---
+|---|---|
 |content|content|
---
+|---|---|
 
